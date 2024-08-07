@@ -28,8 +28,8 @@ After some years of developing c++ applications, here are some libraries I recom
 #### Books I have read about c++
 
 * Marius Bancila,["Modern c++ Progamming Cookbook"](https://www.amazon.com/-/es/Marius-Bancila/dp/1800208987): I have the second edition, it has a lot of examples and tips that help to use c++ in an effective manner.
-* Bjarne Strouptrup, ["A tour of C++"](https://www.stroustrup.com/Tour.html): Currently reading it. Very compact, right to the point book.
-* Bjarne Strouptrup, ["Programming, Principles and practices using c++"](https://www.stroustrup.com/programming.html): It's a general programming book. Coming from the embedded field, it shows me a lot of good practices.
+* Bjarne Stroustrup, ["A tour of C++"](https://www.stroustrup.com/Tour.html): Currently reading it. Very compact, right to the point book.
+* Bjarne Stroustrup, ["Programming, Principles and practices using c++"](https://www.stroustrup.com/programming.html): It's a general programming book. Coming from the embedded field, it shows me a lot of good practices.
 * Eric Gamma et al,["Patrones de diseño"](https://www.amazon.com/-/es/Erich-Gamma/dp/8478290591): Spanish version of the classic book "Design patterns".
 
 The objective of this post is to give the reader the framework that I use so that you can follow the upcoming ones.
