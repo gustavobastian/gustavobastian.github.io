@@ -4,7 +4,7 @@ title: C++ Libraries and tools
 ---
 ### Libraries and tools I use
 
-#### Libraries
+#### Selected Libraries
 
 After some years of developing c++ applications, here are some libraries I recommend for beginners to investigate.
 
