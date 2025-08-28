@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: rgb(173, 232, 250);//$white;
+	background: rgb(107, 146, 95);//$white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -61,19 +61,19 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
-}
+  color: $darkGray;
+  text-decoration: underline;}
 
 p {
   margin: 15px 0;
 }
 
 a {
-  color: $blue;
+  color: rgb(61, 102, 134);
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: rgb(36, 59, 77);
   }
 }
 
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: rgba(10, 10, 51, 0.295);  
   font-size: 16px;
 
   @include mobile {
